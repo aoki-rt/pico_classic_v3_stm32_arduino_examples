@@ -22,7 +22,7 @@ HardwareTimer *Timer3 = new HardwareTimer(TIM3);//PWM_L PA7
 #define LED0 PC11
 #define LED1 PC10
 #define LED2 PB15
-#define LED3 PB15
+#define LED3 PB14
 
 #define SW_L PC15
 #define SW_C PF0
